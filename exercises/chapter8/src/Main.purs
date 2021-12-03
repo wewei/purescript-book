@@ -1,4 +1,9 @@
-module Main where
+module Main
+  ( formField
+  , main
+  , mkAddressBookApp
+  )
+  where
 
 import Prelude
 
